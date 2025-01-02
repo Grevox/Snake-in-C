@@ -15,7 +15,7 @@ int main(){
  printf("\n\nsnake in C\n\nPARTY EDITION\n\n");
   scanf("%s",NULL);
   srand(time(NULL));
-  system("clear");
+  system("cls");
   init();
 }
 int score = 1100;
@@ -152,7 +152,7 @@ void init(){
     io++;
     where = ' ';
 
-    system("clear");
+    system("cls");
     if (pos.parts == 20){
       printf("\n\n YOU WIN! \n\n");
       pos.parts = pos.parts +io;

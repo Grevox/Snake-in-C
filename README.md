@@ -1,6 +1,5 @@
-<h1> SNAKE IN C</h1>
-<p1>># this is snake in > [!CAUTION]
-> THIS IS STILL A PROTOTYPE
-/* so it's not *perfect 
-<sub> idk </sub> </p1>
-i was sperimenting with read mes LOL
+<h1> Snake in C</h1> <br> 
+<p> I'm not good at programming but i think this is really good</p>
+<br><br><br>
+<h1> IF you want to compile for windows use TDM-GCC</h1><br>
+<h1> IF YOU WANT TO COMPILE FOR LINUX Change (in main.c) the system() parts from system("CLS") to system("clear")</h1>
